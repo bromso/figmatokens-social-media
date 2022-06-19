@@ -10,89 +10,88 @@ Graphical assets, files, code and documentation released under the MIT.
 Docs released under Creative Commons.
 
 ### 📝 Blog
-- Google
-- Twitter
-- VK
-- Facebook
-- Snapchat
-- TikTok
-- Meetup
-- Pinterest
-- Reddit
-- Medium
-- YCombinator
-- Producthunt
-- LinkedIn
-- Disqus
-- Workplace
+- [Google](https://about.google/brand-resource-center/)
+- [Twitter](https://about.twitter.com/en/who-we-are/brand-toolkit)
+- [VK](https://vk.company/en/press/identity/)
+- [Facebook](https://www.facebook.com/brand/resources/facebookapp)
+- [Snapchat](https://snap.com/en-US/brand-guidelines)
+- [TikTok](https://tiktokbrandbook.com/d/HhXfjVK1Poj9/legal)
+- [Meetup](https://meetup.github.io/swarm-design-system/brand/)
+- [Pinterest](https://business.pinterest.com/brand-guidelines/)
+- [Medium](https://medium.design/logos-and-brand-guidelines-f1a01a733592)
+- [YCombinator](https://www.ycombinator.com/press)
+- [Producthunt](https://www.producthunt.com/branding)
+- [LinkedIn](https://brand.linkedin.com/en-us)
+- [Disqus](https://disqus.com/brand/)
+- [Workplace](https://www.facebook.com/brand/resources/workplace/workplace-brand)
 - Xing
 - StumbleUpon
-- Wordpress
-- Tumblr
+- [Wordpress](https://wordpress.org/about/logos/)
+- [Tumblr](https://www.tumblr.com/logo)
 - Sina Weibo
 - Blogger
 
 ### 🖼️ Imagery
-- Instagram
-- Flickr
+- [Instagram](https://www.facebook.com/brand/resources/instagram/instagram-brand)
+- [Flickr](https://www.flickrhelp.com/hc/en-us/articles/4404071066260-Brand-guidelines)
 - 500px
 
 ### 👨‍👩‍👧‍👦 Crowdsourcing
-- Kickstarter
+- [Kickstarter](https://www.kickstarter.com/help/brand_assets)
 - Open Collective
-- AngelList
-- Patreon
+- [AngelList](https://angel.co/logo)
+- [Patreon](https://www.patreon.com/brand
 
 ### 🎨 Creative
-- Behance
-- DeviantArt
+- [Behance](https://www.behance.net/dev/api/brand)
+- [DeviantArt](https://www.deviantartsupport.com/en/article/where-can-i-find-deviantarts-official-logo-and-media-files)
 - Dribbble
-- InVision
-- Figma
+- [InVision](https://www.invisionapp.com/resources/brand)
+- [Figma](https://www.figma.com/using-the-figma-brand/)
 - Framer
 
 ### 🎼 Music
-- Spotify
-- Soundcloud
+- [Spotify](https://developer.spotify.com/documentation/general/design-and-branding/)
+- [Soundcloud](https://developers.soundcloud.com/docs/api/buttons-logos)
 - last.fm
 
 
 ### 💬 Messaging
-- Discord
-- Telegram
-- WhatsApp
-- Skype
-- Viber
-- Messenger
-- Signal
-- Slack
-- Line
+- [Discord](https://discord.com/branding)
+- [Telegram](https://telegram.org/tour/screenshots)
+- [WhatsApp](https://www.facebook.com/brand/resources/whatsapp/whatsapp-brand)
+- [Skype](https://www.skype.com/en/legal/brand-guidelines/)
+- [Viber](https://www.viber.com/en/brand-center/)
+- [Messenger](https://www.facebook.com/brand/resources/messenger/messenger-brand)
+- [Signal](https://signal.org/docs/)
+- [Slack](https://slack.com/media-kit)
+- [Line](https://line.me/en/logo)
 - WeChat
 - Microsoft Teams
-- Apple FaceTime
+- [Apple FaceTime](https://developer.apple.com/design/human-interface-guidelines/foundations/branding/)
 
 ### 🗣️ Forum
 - Quora
-- Reddit
+- [Reddit](https://www.redditinc.com/brand)
 
 ### 📦 Storage
-- Google Drive
-- Dropbox
+- [Google Drive](https://developers.google.com/drive/api/guides/branding)
+- [Dropbox](https://dropbox.design/)
 
 ### 💻 Tech
-- Github
-- Bitbucket
-- Stackoverflow
-- Codepen
+- [Github](https://github.com/logos)
+- [Bitbucket](https://atlassian.design/foundations/logos)
+- [Stackoverflow](https://stackoverflow.design/brand/logo/)
+- [Codepen](https://blog.codepen.io/documentation/logos/)
 - Mastodon
 
 ### 📽️ Video
-- YouTube
-- Vimeo
-- Twitch
+- [YouTube](https://www.youtube.com/howyoutubeworks/resources/brand-resources/#logos-icons-and-colors)
+- [Vimeo](https://press.vimeo.com/brand-guidelines/)
+- [Twitch](https://brand.twitch.tv/)
 - Trovo
 
-### 📍 Geolocation
-- Foursquare
-- Tripadvisor
-- Yelp
+### 📍 Geolocationz
+- [Foursquare](https://foursquare.com/brand/)
+- [Tripadvisor](https://tripadvisor.mediaroom.com/logo-guidelines)
+- [Yelp](https://www.yelp.com/brand)
