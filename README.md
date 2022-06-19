@@ -2,12 +2,15 @@
 Figma template/library with graphical assets, color styles & tokens for social media icons.
 The whole template is built with the purpose of of you being able to easily extend your ongoing graphical work.
 
-## Disclaimer
-While I have in some cases redrawn and shared these assets for the benefit of the Figma design community, I do not own any of the underlying products, logotype or user interface designs. By accessing these assets, you agree to obtain all necessary permissions from the underlying rights holders and/or adhere to any applicable brand use guidelines before using them. I disclaims all express or implied warranties with respect to these assets, including non-infringement of intellectual property rights.
+## Software Used
+- [Figma](https://www.figma.com/)
 
-## Copyright
-Graphical assets, files, code and documentation released under the MIT.
-Docs released under Creative Commons.
+## Plugins Used
+- [Design System Optimizer](https://www.figma.com/community/plugin/802579985985331070)
+- [Figma Tokens](https://www.figma.com/community/plugin/843461159747178978)
+- [Figma Finder](https://www.figma.com/community/plugin/851217747476215597)
+- [Unsplash](https://www.figma.com/community/plugin/738454987945972471)
+- [SkewDat](https://www.figma.com/community/plugin/741472919529947576)
 
 ### 📝 Blog
 - [Google](https://about.google/brand-resource-center/)
@@ -95,3 +98,11 @@ Docs released under Creative Commons.
 - [Foursquare](https://foursquare.com/brand/)
 - [Tripadvisor](https://tripadvisor.mediaroom.com/logo-guidelines)
 - [Yelp](https://www.yelp.com/brand)
+
+
+## Disclaimer
+While I have in some cases redrawn and shared these assets for the benefit of the Figma design community, I do not own any of the underlying products, logotype or user interface designs. By accessing these assets, you agree to obtain all necessary permissions from the underlying rights holders and/or adhere to any applicable brand use guidelines before using them. I disclaims all express or implied warranties with respect to these assets, including non-infringement of intellectual property rights.
+
+## Copyright
+Graphical assets, files, code and documentation released under the MIT.
+Docs released under Creative Commons.
