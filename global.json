@@ -1,0 +1,470 @@
+{
+  "Social": {
+    "LinkedIn": {
+      "1": {
+        "value": "#0a66c2",
+        "type": "color"
+      }
+    },
+    "Discord": {
+      "1": {
+        "value": "#5865f2",
+        "type": "color"
+      }
+    },
+    "Twitch": {
+      "1": {
+        "value": "#8c44f7",
+        "type": "color"
+      }
+    },
+    "VK": {
+      "1": {
+        "value": "#2683ed",
+        "type": "color"
+      }
+    },
+    "Facebook": {
+      "1": {
+        "value": "#1877f2",
+        "type": "color"
+      }
+    },
+    "Google": {
+      "1": {
+        "value": "#f14336",
+        "type": "color"
+      },
+      "2": {
+        "value": "#fbbb00",
+        "type": "color"
+      },
+      "3": {
+        "value": "#28b446",
+        "type": "color"
+      },
+      "4": {
+        "value": "#518ef8",
+        "type": "color"
+      }
+    },
+    "Twitter": {
+      "1": {
+        "value": "#1d9bf0",
+        "type": "color"
+      }
+    },
+    "YouTube": {
+      "1": {
+        "value": "#d9252a",
+        "type": "color"
+      },
+      "2": {
+        "value": "#222321",
+        "type": "color"
+      }
+    },
+    "Telegram": {
+      "1": {
+        "value": "linear-gradient(180deg, #2aabee 0%, #229ed9 100%)",
+        "type": "color"
+      }
+    },
+    "WhatsApp": {
+      "1": {
+        "value": "linear-gradient(90deg, #20b038 0%, #60d66a 100%)",
+        "type": "color"
+      }
+    },
+    "WeChat": {
+      "1": {
+        "value": "linear-gradient(180deg, #20d329 0%, #1bb623 100%)",
+        "type": "color"
+      }
+    },
+    "Skype": {
+      "1": {
+        "value": "#00aef3",
+        "type": "color"
+      }
+    },
+    "Viber": {
+      "1": {
+        "value": "#665cac",
+        "type": "color"
+      }
+    },
+    "Messenger": {
+      "1": {
+        "value": "linear-gradient(180deg, #00b2ff 0%, #006aff 100%)",
+        "type": "color"
+      }
+    },
+    "Spotify": {
+      "1": {
+        "value": "#1ed760",
+        "type": "color"
+      }
+    },
+    "Soundcloud": {
+      "1": {
+        "value": "#ff5500",
+        "type": "color"
+      }
+    },
+    "Tik Tok": {
+      "1": {
+        "value": "#69c9d0",
+        "type": "color"
+      },
+      "2": {
+        "value": "#ee1d52",
+        "type": "color"
+      },
+      "3": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "4": {
+        "value": "#010101",
+        "type": "color"
+      }
+    },
+    "Snapchat": {
+      "1": {
+        "value": "#fffc00",
+        "type": "color"
+      }
+    },
+    "Meetup": {
+      "1": {
+        "value": "#f64060",
+        "type": "color"
+      }
+    },
+    "Pinterest": {
+      "1": {
+        "value": "#cc2127",
+        "type": "color"
+      }
+    },
+    "RSS": {
+      "1": {
+        "value": "#f8991d",
+        "type": "color"
+      }
+    },
+    "Line": {
+      "1": {
+        "value": "#00b900",
+        "type": "color"
+      }
+    },
+    "DeviantArt": {
+      "1": {
+        "value": "#45ad47",
+        "type": "color"
+      }
+    },
+    "Behance": {
+      "1": {
+        "value": "#1769ff",
+        "type": "color"
+      }
+    },
+    "Dribbble": {
+      "1": {
+        "value": "#ea4c89",
+        "type": "color"
+      },
+      "2": {
+        "value": "#c32361",
+        "type": "color"
+      }
+    },
+    "Dropbox": {
+      "1": {
+        "value": "#007ee5",
+        "type": "color"
+      }
+    },
+    "Google Drive": {
+      "1": {
+        "value": "linear-gradient(221deg, #069b5a 0%, #11aa62 53.1%, #069b5a 100%)",
+        "type": "color"
+      },
+      "2": {
+        "value": "linear-gradient(145deg, #f6c338 0%, #ffd351 52.28%, #f6c338 100%)",
+        "type": "color"
+      },
+      "3": {
+        "value": "linear-gradient(188deg, #286ee6 0%, #4286fb 52.1%, #286ee6 100%)",
+        "type": "color"
+      }
+    },
+    "StackOverflow": {
+      "1": {
+        "value": "#bcbbbb",
+        "type": "color"
+      },
+      "2": {
+        "value": "#f48023",
+        "type": "color"
+      }
+    },
+    "Reddit": {
+      "1": {
+        "value": "#ef601a",
+        "type": "color"
+      }
+    },
+    "Bitbucket": {
+      "1": {
+        "value": "#2684ff",
+        "type": "color"
+      },
+      "2": {
+        "value": "linear-gradient(224deg, #0052cc 18%, #2684ff 100%)",
+        "type": "color"
+      }
+    },
+    "Slack": {
+      "1": {
+        "value": "#36c5f0",
+        "type": "color"
+      },
+      "2": {
+        "value": "#2eb67d",
+        "type": "color"
+      },
+      "3": {
+        "value": "#ecb22e",
+        "type": "color"
+      },
+      "4": {
+        "value": "#e01e5a",
+        "type": "color"
+      }
+    },
+    "InVision": {
+      "1": {
+        "value": "#ff0066",
+        "type": "color"
+      }
+    },
+    "Vimeo": {
+      "1": {
+        "value": "#32b8e8",
+        "type": "color"
+      },
+      "2": {
+        "value": "#15272e",
+        "type": "color"
+      }
+    },
+    "Disqus": {
+      "1": {
+        "value": "#2e9fff",
+        "type": "color"
+      }
+    },
+    "Kickstarter": {
+      "1": {
+        "value": "#05ce78",
+        "type": "color"
+      }
+    },
+    "Product Hunt": {
+      "1": {
+        "value": "linear-gradient(180deg, #da552f 0%, #d04b25 100%)",
+        "type": "color"
+      }
+    },
+    "Y Combinator": {
+      "1": {
+        "value": "#fb651e",
+        "type": "color"
+      }
+    },
+    "Open Collective": {
+      "1": {
+        "value": "#7fadf2",
+        "type": "color"
+      },
+      "2": {
+        "value": "#b8d3f4",
+        "type": "color"
+      }
+    },
+    "lastfm": {
+      "1": {
+        "value": "#d41107",
+        "type": "color"
+      }
+    },
+    "Signal": {
+      "1": {
+        "value": "#3a76f0",
+        "type": "color"
+      }
+    },
+    "Workplace": {
+      "1": {
+        "value": "#412bbf",
+        "type": "color"
+      }
+    },
+    "Github": {
+      "1": {
+        "value": "#000000",
+        "type": "color"
+      }
+    },
+    "Medium": {
+      "1": {
+        "value": "#000000",
+        "type": "color"
+      }
+    },
+    "AngelList": {
+      "1": {
+        "value": "#000000",
+        "type": "color"
+      }
+    },
+    "Flickr": {
+      "1": {
+        "value": "#2761d7",
+        "type": "color"
+      },
+      "2": {
+        "value": "#ee4882",
+        "type": "color"
+      }
+    },
+    "Trovo": {
+      "1": {
+        "value": "#5bbd80",
+        "type": "color"
+      }
+    },
+    "Xing": {
+      "1": {
+        "value": "#005a5f",
+        "type": "color"
+      },
+      "2": {
+        "value": "#cfdc00",
+        "type": "color"
+      }
+    },
+    "Stumbleupon": {
+      "1": {
+        "value": "#eb4823",
+        "type": "color"
+      }
+    },
+    "Codepen": {
+      "1": {
+        "value": "#000000",
+        "type": "color"
+      }
+    },
+    "Foursquare": {
+      "1": {
+        "value": "#fa4778",
+        "type": "color"
+      }
+    },
+    "Wordpress": {
+      "1": {
+        "value": "#32373c",
+        "type": "color"
+      }
+    },
+    "tumblr": {
+      "1": {
+        "value": "#323e4d",
+        "type": "color"
+      }
+    },
+    "Quora": {
+      "1": {
+        "value": "#b92b27",
+        "type": "color"
+      }
+    },
+    "FaceTime": {
+      "1": {
+        "value": "linear-gradient(180deg, #5df777 0%, #0abc28 100%)",
+        "type": "color"
+      }
+    },
+    "Sina Weibo": {
+      "1": {
+        "value": "#e6162d",
+        "type": "color"
+      },
+      "2": {
+        "value": "#ff9933",
+        "type": "color"
+      },
+      "3": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "4": {
+        "value": "#ffffff",
+        "type": "color"
+      }
+    },
+    "Framer": {
+      "1": {
+        "value": "#88ddff",
+        "type": "color"
+      },
+      "2": {
+        "value": "#00aaff",
+        "type": "color"
+      },
+      "3": {
+        "value": "#0055ff",
+        "type": "color"
+      }
+    },
+    "Figma": {
+      "1": {
+        "value": "#f24e1e",
+        "type": "color"
+      },
+      "2": {
+        "value": "#ff7262",
+        "type": "color"
+      },
+      "3": {
+        "value": "#a259ff",
+        "type": "color"
+      },
+      "4": {
+        "value": "#1abcfe",
+        "type": "color"
+      },
+      "5": {
+        "value": "#0acf83",
+        "type": "color"
+      }
+    },
+    "Patreon": {
+      "1": {
+        "value": "#ff424d",
+        "type": "color"
+      }
+    },
+    "Blogger": {
+      "1": {
+        "value": "#f06a35",
+        "type": "color"
+      }
+    }
+  }
+}
