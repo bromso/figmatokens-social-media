@@ -2,6 +2,9 @@
 Figma template/library with graphical assets, color styles & tokens for social media icons.
 The whole template is built with the purpose of of you being able to easily extend your ongoing graphical work.
 
+The Figma project can be found here:
+https://www.figma.com/community/file/1120383141238545400
+
 ## Creator
 - Jonas Bröms
     - [Facebook](https://www.facebook.com/jonas.broms)
