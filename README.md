@@ -1,3 +1,5 @@
+![Thumbnail Image](https://github.com/bromso/figmatokens-social-media/blob/main/Thumbnail.jpg)
+
 # Social Media Icons
 Figma template/library with graphical assets, color styles & tokens for social media icons.
 The whole template is built with the purpose of of you being able to easily extend your ongoing graphical work.
